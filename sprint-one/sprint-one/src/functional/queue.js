@@ -37,17 +37,6 @@ var Queue = function() {
   return someInstance;
 };
 
-//queue first in first out
 
-//counter
-
-//dequeue the lowest numbered property
-
-storage = {
-  0: "b"
-
-
-
-}
 
 
