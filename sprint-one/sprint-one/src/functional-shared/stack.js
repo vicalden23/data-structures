@@ -18,4 +18,3 @@ var Stack = function() {
   }
 };
 
-
